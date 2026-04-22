@@ -1,3 +1,4 @@
+#первое комментарий после загрузки на гитхаб
 from PyQt5.QtCore import Qt
 import json
 from PyQt5.QtWidgets import (QApplication,QWidget,QPushButton,QLabel,QListWidget,
